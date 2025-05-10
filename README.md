@@ -23,8 +23,8 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,wireshark,vscode" /><br>
 </div>
 
 <br>
