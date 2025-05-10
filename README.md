@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=4C24F7&repeat=false&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Under+Maintenance+:3;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=4C24F7&repeat=true&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Under+Maintenance+:3;" />
 </div>
 
 
